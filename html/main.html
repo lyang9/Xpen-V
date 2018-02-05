@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+    <title>XpenV</title>
+</head>
+<body>
+
+<!-- Navigation -->
+<div id="mainNav">
+    <div class="navbar navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="http://localhost:63342/Xpen-V/html/main.html?_ijt=olir97sa5ljvhds6o37edpcfv9"><img class="logo" src="../img/xpenv.png" width="120" height="60"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="page-scroll"><a href="#home">Home</a></li>
+                    <li class="page-scroll"><a href="#about">About Us</a></li>
+                    <li class="page-scroll"><a href="#services">Services</a></li>
+                    <li class="page-scroll"><a href="#portfolio">Portfolio</a></li>
+                    <li class="page-scroll"><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Home Section -->
+<header>
+    <section id="home">
+        <div class="header-content">
+            <div class="container">
+                <div class="centered">
+                    <h1>EXPLORE</h1>
+                    <h3>and</h3>
+                    <h1>DISCOVER</h1>
+                </div>
+                <div class="bottom-left">
+                    <p class="top">Looking for more than just normal.</p>
+                    <p class="middle">Begin your adventure with us!</p>
+                    <h6 class="bottom">For more information, contact us!</h6>
+                    <div class="social">
+                        <i class="fab fa-facebook-square fa-2x" style="color: mediumblue"></i>
+                        <i class="fab fa-twitter-square fa-2x" style="color: deepskyblue"></i>
+                        <i class="fab fa-linkedin fa-2x" style="color: dodgerblue"></i>
+                        <i class="fab fa-instagram fa-2x" style="color: orangered"></i>
+                        <i class="fab fa-youtube fa-2x" style="color: red"></i>
+                        <i class="fab fa-whatsapp-square fa-2x" style="color: limegreen"></i>
+                    </div>
+                </div>
+                <div class="bottom-right">
+                    <h6 class="top">Marketing That Really Works!</h6>
+                    <h4 class="bold">Take the Opportunity.</h4>
+                    <h6 class="middle">Great opportunities don't just rely on sheer luck.</h6>
+                    <h6 class="bottom">You have to develop habits to attract them.</h6>
+                </div>
+            </div>
+        </div>
+    </section>
+</header>
+
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script>
+        $(document).ready(function(){
+          $('a[href*=#]').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+            && location.hostname == this.hostname) {
+              var $target = $(this.hash);
+              $target = $target.length && $target
+              || $('[name=' + this.hash.slice(1) +']');
+              if ($target.length) {
+                var targetOffset = $target.offset().top;
+                $('html,body')
+                .animate({scrollTop: targetOffset}, 1000);
+               return false;
+              }
+            }
+          });
+        });
+    </script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>
