@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23490925-8122-413f-a45a-55d00f6729ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/advs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adwords.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/analytics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/apps.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/brand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/brand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fb-market.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/google.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hubspot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/insights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/manage.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/manage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/management.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/market.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/research.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/seo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/seo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/services.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/special.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/web.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/web.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/white.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/main.html" afterPath="$PROJECT_DIR$/html/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-    </list>
+    <list default="true" id="23490925-8122-413f-a45a-55d00f6729ad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +24,8 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="152" column="67" lean-forward="true" selection-start-line="152" selection-start-column="67" selection-end-line="152" selection-end-column="67" />
+            <state relative-caret-position="-1078">
+              <caret line="173" column="22" lean-forward="true" selection-start-line="173" selection-start-column="22" selection-end-line="173" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -113,7 +80,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="95" />
     <option name="y" value="46" />
     <option name="width" value="1259" />
@@ -206,7 +173,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="46" width="1259" height="717" extended-state="0" />
+    <frame x="95" y="46" width="1259" height="717" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -364,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="152" column="67" lean-forward="true" selection-start-line="152" selection-start-column="67" selection-end-line="152" selection-end-column="67" />
+        <state relative-caret-position="-1078">
+          <caret line="173" column="22" lean-forward="true" selection-start-line="173" selection-start-column="22" selection-end-line="173" selection-end-column="22" />
           <folding />
         </state>
       </provider>
